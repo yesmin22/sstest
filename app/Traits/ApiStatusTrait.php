@@ -1,5 +1,5 @@
 <?php
-namespace App\api_trait;
+namespace App\Traits;
 trait ApiStatusTrait{
     protected function success(){
         $message="This is Success Message";
